@@ -1,0 +1,7 @@
+C:\Users\anton\source\repos\Triángulo de Pascal\Triángulo de Pascal\bin\Debug\Triángulo de Pascal.exe.config
+C:\Users\anton\source\repos\Triángulo de Pascal\Triángulo de Pascal\bin\Debug\Triángulo de Pascal.exe
+C:\Users\anton\source\repos\Triángulo de Pascal\Triángulo de Pascal\bin\Debug\Triángulo de Pascal.pdb
+C:\Users\anton\source\repos\Triángulo de Pascal\Triángulo de Pascal\obj\Debug\Triángulo de Pascal.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Triángulo de Pascal\Triángulo de Pascal\obj\Debug\Triángulo de Pascal.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Triángulo de Pascal\Triángulo de Pascal\obj\Debug\Triángulo de Pascal.exe
+C:\Users\anton\source\repos\Triángulo de Pascal\Triángulo de Pascal\obj\Debug\Triángulo de Pascal.pdb
